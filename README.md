@@ -1,4 +1,4 @@
-# tec-CPLD-THAT-analog
+# tec-Analog-CPLD-THAT
 tec-1 controlled CPLD circuits of T.H.A.T.
 
 
