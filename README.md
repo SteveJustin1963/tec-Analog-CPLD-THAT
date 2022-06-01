@@ -12,4 +12,6 @@ use the https://github.com/SteveJustin1963/tec-TEC1-Custom-BG with the 2 integra
 - https://the-analog-thing.org/  (THAT)
 - https://analogparadigm.com/
 - https://www.cemetech.net/
-- 
+- https://github.com/bernd-ulmann/DEQscaler?fbclid=IwAR0eNX0zrobk0gqQqDOxywwMYttgSZHujdvd_WKi1aE5hicniv4vsoypQZU
+
+
