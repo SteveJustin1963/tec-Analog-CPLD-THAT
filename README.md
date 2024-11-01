@@ -21,4 +21,4 @@ use the https://github.com/SteveJustin1963/tec-TEC1-Custom-BG with the 2 integra
 - https://github.com/SteveJustin1963/tec-Analog
 - https://github.com/SteveJustin1963/tec-Analog-CPLD-THAT
 - https://github.com/SteveJustin1963/tec-Analog-PEAC/tree/master
-
+- https://github.com/SteveJustin1963/tec-Stochastic
